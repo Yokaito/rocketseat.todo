@@ -4,6 +4,10 @@
 
 This project aims to be a strong foundation for react-native applications. It provides a clear and organized structure, core dependencies, and boilerplate to jumpstart development.
 
+## App Developed
+![image](https://user-images.githubusercontent.com/20995335/226724814-54d85125-92d1-4c1b-aaba-86ebcefb3375.png)
+
+
 ## Prerequisites
 
 - [Node.js > 12](https://nodejs.org) and npm (Recommended: Use [nvm](https://github.com/nvm-sh/nvm))
